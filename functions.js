@@ -12,12 +12,11 @@ let playerScore=0;
 
 
 const sentences = [
-    'After entering the New World...'
-    // ,
-    // 'you have defeated many strong enemies...',
-    // 'Do you have what it takes to face your biggest challenge yet ???',
-    // 'Defeat Kaido in Rock Paper Scissors!',
-    // 'The first to 5 will be proclaimed King of the Pirates!!!',
+    'After entering the New World...',
+    'you have defeated many strong enemies...',
+    'Do you have what it takes to face your biggest challenge yet ???',
+    'Defeat Kaido in Rock Paper Scissors!',
+    'The first to 5 will be proclaimed King of the Pirates!!!',
 ];
 
 
